@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using TangyServer.Data;
+using TangyWeb_Server.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

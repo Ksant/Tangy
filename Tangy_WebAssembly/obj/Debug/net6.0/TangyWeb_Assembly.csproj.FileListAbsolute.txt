@@ -1,0 +1,6 @@
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.csproj.AssemblyReference.cache
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.AssemblyInfoInputs.cache
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.AssemblyInfo.cs
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.csproj.CoreCompileInputs.cache
+C:\1P\L\Blazor\Tangy\Tangy_WebAssembly\obj\Debug\net6.0\TangyWeb_Assembly.MvcApplicationPartsAssemblyInfo.cache

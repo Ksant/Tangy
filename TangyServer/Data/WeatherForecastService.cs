@@ -1,4 +1,4 @@
-namespace TangyServer.Data;
+namespace TangyWeb_Server.Data;
 
 public class WeatherForecastService
 {
