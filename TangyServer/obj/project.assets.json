@@ -8,24 +8,33 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mkn\\.nuget\\packages\\": {}
+    "C:\\Users\\mkn\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\P\\Time\\Tangy\\TangyServer\\TangyServer.csproj",
-      "projectName": "TangyServer",
-      "projectPath": "D:\\P\\Time\\Tangy\\TangyServer\\TangyServer.csproj",
+      "projectUniqueName": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\TangyWeb_Server.csproj",
+      "projectName": "TangyWeb_Server",
+      "projectPath": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\TangyWeb_Server.csproj",
       "packagesPath": "C:\\Users\\mkn\\.nuget\\packages\\",
-      "outputPath": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\",
+      "outputPath": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mkn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mkn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\mkn\\.dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
       }
     }
   }

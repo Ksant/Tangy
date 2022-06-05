@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N0HE8nSuho726/Qh/So4rTsa5LtJAzyNb8TBPTjQRXQ=",
+  "Hash": "ypVEV4lUFI4RVeSflySYNIBV7zY+dXOPoZ7RE1KqOig=",
   "Source": "TangyServer",
   "BasePath": "_content/TangyServer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TangyServer\\wwwroot",
       "Source": "TangyServer",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TangyServer.styles.css",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TangyServer.styles.css",
       "SourceId": "TangyServer",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "TangyServer.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TangyServer.styles.css"
+      "OriginalItemSpec": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TangyServer.styles.css"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyServer.bundle.scp.css",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyServer.bundle.scp.css",
       "SourceId": "TangyServer",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "TangyServer.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\P\\Time\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyServer.bundle.scp.css"
+      "OriginalItemSpec": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyServer.bundle.scp.css"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,27 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
-      "BasePath": "_content/TangyServer",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "SourceId": "TangyServer",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +187,27 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
+      "BasePath": "_content/TangyServer",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "SourceId": "TangyServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\css\\site.css",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\css\\site.css",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\favicon.ico",
+      "Identity": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\favicon.ico",
       "SourceId": "TangyServer",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\P\\Time\\Tangy\\TangyServer\\wwwroot\\",
+      "ContentRoot": "C:\\1P\\L\\Blazor\\Tangy\\TangyServer\\wwwroot\\",
       "BasePath": "_content/TangyServer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
