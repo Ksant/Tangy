@@ -1,0 +1,27 @@
+﻿@page "/LearnBlazor/MyNewComponent"
+
+<h3>MyNewComponent</h3>
+
+Id = @_product.Id <br/>
+Name = @_product.Name <br/>
+Price = @_product.Price <br/>
+This Product is: @(_product.Active?"Active":"InActive") <br/>
+<br/>
+Price: <input type="number" @bind="@_product.Price" @bind:event="oninput"/>
+Price: <input type="number" @bind="@_product.Price" @bind:event="oninput"/>
+<br/>
+Active: <input type="checkbox" @bind="@_product.Active" @bind:event="oninput"/> 
+<br />
+
+
+@code {
+
+    readonly Product _product = new()
+    {
+        Id = 1,
+        Name = "Product 2",
+        Active = true,
+        Price = 12
+    };
+
+}
