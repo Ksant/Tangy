@@ -6,5 +6,7 @@
         public string? Name { get; set; }
         public bool Active { get; set; }
         public double Price { get; set; }
+
+        public List<ProductProperty> Properties { get; set; }
     }
 }
