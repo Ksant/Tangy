@@ -7,6 +7,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <None Remove="Readmy_binding.md" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="Readmy_binding.md" />
+    </ItemGroup>
+
+    <ItemGroup>
       <ProjectReference Include="..\TangyWeb_Models\Tangy_Models.csproj" />
     </ItemGroup>
 
